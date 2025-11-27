@@ -1,0 +1,8 @@
+# ignore dataset (we should have this locally but not in repo)
+data/*.json
+data/*.tar
+data/*.zip
+data/*
+
+# ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
